@@ -1,15 +1,15 @@
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   archives: /archives
   tags: /tags
-  #about: /about
+  about: /about
 
 # Place your favicon.ico to /source directory.
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "Roteiro,blog,dekun,deggs.k"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
